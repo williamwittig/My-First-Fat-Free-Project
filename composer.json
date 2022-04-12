@@ -1,0 +1,12 @@
+{
+  "name" : "wwittig/328/hello",
+  "authors" : [
+    {
+      "name": "William Wittig",
+      "email": "wwittig@student.greenriver.edu"
+    }
+  ],
+  "require" : {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
